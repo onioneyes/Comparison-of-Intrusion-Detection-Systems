@@ -1,4 +1,4 @@
-# Intrusion-Detection-System
+# Comparison of Network based Intrusion-Detection-System
 This repository contains the work based on comparison of two network based intrusion detection system, namely snort and suricata.
 
 Programming Language Required:
